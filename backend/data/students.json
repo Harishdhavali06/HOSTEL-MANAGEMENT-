@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "k7srgxfmq5gz8s2",
+    "user": "gi4bkuomq5gz8s1",
+    "studentId": "16",
+    "phone": "1234567890",
+    "parentName": "mahesh",
+    "parentPhone": "0987654321",
+    "address": "kych bhi",
+    "branch": "CSE",
+    "createdAt": "2026-06-08T17:13:19.922Z",
+    "updatedAt": "2026-06-08T17:36:00.575Z",
+    "status": "active",
+    "room": "su6x2qzmq5h0zim"
+  }
+]

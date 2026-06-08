@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "myjvv84mq5hth8n",
+    "student": "gi4bkuomq5gz8s1",
+    "amount": 150,
+    "dueDate": "2026-07-01T00:00:00.000Z",
+    "billingMonth": "June 2026",
+    "status": "paid",
+    "createdAt": "2026-06-08T17:36:50.567Z",
+    "updatedAt": "2026-06-08T17:38:00.430Z",
+    "paymentDate": "2026-06-08T17:38:00.430Z",
+    "paymentMethod": "upi",
+    "transactionId": "987654"
+  }
+]

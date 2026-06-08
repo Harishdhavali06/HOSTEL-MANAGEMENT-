@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "shub21mmq5g3jhg",
+    "name": "System Administrator",
+    "email": "admin@hostel.com",
+    "password": "$2a$10$G8BLJ8fwoEdJlV0uOzNXjOl72Y8ZTEe5HPqLZAL61BFvvF9udtB8i",
+    "role": "admin",
+    "createdAt": "2026-06-08T16:48:40.804Z",
+    "updatedAt": "2026-06-08T16:48:40.807Z"
+  },
+  {
+    "_id": "gi4bkuomq5gz8s1",
+    "name": "suresh",
+    "email": "sureshg@gmail.com",
+    "password": "$2a$10$AzDCe2kUtFC.wdjn7tkuRO2y/EEd1f1.jYDxrIOWDIHLv6ABjl32y",
+    "role": "student",
+    "createdAt": "2026-06-08T17:13:19.921Z",
+    "updatedAt": "2026-06-08T17:35:22.729Z"
+  }
+]

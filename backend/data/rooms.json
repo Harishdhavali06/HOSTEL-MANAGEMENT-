@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "ulcoi6tmq5h034m",
+    "roomNumber": "100",
+    "type": "single",
+    "capacity": 1,
+    "rentPerMonth": 250,
+    "occupants": [],
+    "status": "full",
+    "createdAt": "2026-06-08T17:13:59.254Z",
+    "updatedAt": "2026-06-08T17:35:34.202Z"
+  },
+  {
+    "_id": "su6x2qzmq5h0zim",
+    "roomNumber": "101",
+    "type": "double",
+    "capacity": 2,
+    "rentPerMonth": 150,
+    "occupants": [
+      "gi4bkuomq5gz8s1"
+    ],
+    "status": "full",
+    "createdAt": "2026-06-08T17:14:41.230Z",
+    "updatedAt": "2026-06-08T17:36:00.574Z"
+  }
+]
